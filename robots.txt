@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nientremon.github.io/sitemap
+Sitemap: https://nientremon.github.io/app/sitemap
+Sitemap: https://nientremon.github.io/assets/sitemap
+Sitemap: https://nientremon.github.io/css/sitemap
+Sitemap: https://nientremon.github.io/includes/sitemap
+Sitemap: https://nientremon.github.io/item/sitemap
+Sitemap: https://nientremon.github.io/src/sitemap
